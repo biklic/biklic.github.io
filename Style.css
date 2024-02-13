@@ -1,0 +1,17 @@
+h1{color:#8B0000; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h2{color:black;font-weight: bolder; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h3{color:black; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+
+
+body { 
+
+    padding-left: 25px;
+    padding-right: 25px;
+   
+    
+    }
+table.center {
+      margin-left: auto;
+      margin-right: auto;
+    }
